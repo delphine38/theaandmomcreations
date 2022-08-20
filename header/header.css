@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+}
+
+.imageHeader {
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.h2Header {
+    margin-top: 90px;
+    margin-left: 30px;
+}
+
+.h2TheaandMom {
+    color: #9900CC;
+}
+
+.h2Bijoux {
+    color: #e9a9d7;
+}
+
+.headerBoutonContact {
+    margin-left: 1000px;
+    margin-top: 130px;
+    background-color: white;
+    border: 1px solid #CC0099;
+    color: #CC0099;
+}
