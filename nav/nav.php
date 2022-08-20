@@ -11,7 +11,89 @@
 </head>
 
 <body>
-    <h1 class="nav">nav</h1>
+    <section class="ensemblenav">
+        <nav>
+
+            <div id="burger" class="burger">
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+            <br>
+            <ul class="nav">
+                <!-- <img src="images/LogoVelo.png" class="imageLogo" alt="image de fond bleu" width="7%"> -->
+                <li class="nav-item">
+                    <a href="index.php" class="nav-link" activeClass="nav-link-active" aria-current="page">Accueil</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" href="#">Boutique</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Blog</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">A propos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">FAQ</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Contact</a>
+                </li>
+                <li class="nav-item">
+                    <a target="_blank" class="nav-link" href="https://thea-and-mom-creations.over-blog.com/">NewsLetters</a>
+                    <!-- <a onClick={navigateContact} class="nav-link" href="#">NewsLetters</a> -->
+                </li>
+            </ul>
+        </nav>
+    </section>
+
+    <div>
+        <section class="ensemblenav">
+            <article>
+                <ul class="nav">
+                    <li class="nav-item">
+                        <a onClick={navigateAccueil} class="nav-link" activeClassName="nav-link-active" aria-current="page" href="#">Accueil</a>
+                    </li>
+                    <li class="nav-item">
+                        <a onClick={navigateBoutique} class="nav-link" href="#">Boutique</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Blog</a>
+                    </li>
+                    <li class="nav-item">
+                        <a onClick={navigateAPropos} class="nav-link" href="#">A propos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">FAQ</a>
+                    </li>
+                    <li class="nav-item">
+                        <a onClick={navigateContact} class="nav-link" href="#">Contact</a>
+                    </li>
+                    <li class="nav-item">
+                        <a target="_blank" class="nav-link" href="https://thea-and-mom-creations.over-blog.com/">NewsLetters</a>
+                        <!-- <a onClick={navigateContact} class="nav-link" href="#">NewsLetters</a> -->
+                    </li>
+
+
+                </ul>
+            </article>
+
+            <article>
+                <a href="https://www.thea.mom.creation@gmail.com" target="_blank" class="athemomcreation">
+                    thea.mom.creation@gmail.com
+                </a>
+
+                <a href="https://www.facebook.com/mickaela.land" target="_blank">
+                    <img src="images/facebook.png" alt="facebook" width="20px" class="facebook" />
+                </a>
+                <img src="images/panier" alt="panier" width="35px" class="panier" />
+            </article>
+        </section>
+
+
+
+    </div>
 
 
 

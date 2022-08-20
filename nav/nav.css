@@ -1,3 +1,43 @@
+.nav-link:hover {
+    color: #CC0099 !important;
+}
+
+.nav-link-active {
+    color: #CC0099;
+}
+
+.ensemblenav {
+    display: flex;
+    background-color: #fff5f5;
+    margin-top: 15px;
+}
+
 .nav {
-    color: brown;
+    margin-top: 10px;
+    margin-left: 80px;
+    /* background-color: #fff5f5; */
+}
+
+.nav-item a {
+    color: black;
+}
+
+.nav-item a :active {
+    color: #e9a9d7;
+    color: red;
+}
+
+/* .ensemblenav {
+  display: flex;
+} */
+
+.athemomcreation {
+    margin-top: 40px;
+    margin-left: 870px;
+    text-decoration: none;
+    color: black;
+}
+
+.facebook {
+    margin-left: 20px;
 }
