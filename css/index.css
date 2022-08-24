@@ -1,0 +1,41 @@
+/* accueil */
+.h1accueil {
+    text-align: center;
+    color: #CC0099;
+    margin-top: 80px;
+
+}
+
+.pAmourArtAccueil {
+    color: #CC0099;
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.texteAccueil {
+    text-align: center;
+    color: #9900CC;
+    font-weight: bold;
+    margin: 100px;
+}
+
+.aFacebookTexteAccueil {
+    color: #9900CC;
+    font-style: italic;
+}
+
+.fleuraccueil {
+    border-radius: 50%;
+}
+
+.fleuraccueil2 {
+    border-radius: 100%;
+    margin-top: 90px;
+}
+
+.fleuraccueil3 {
+    border-radius: 100%;
+}

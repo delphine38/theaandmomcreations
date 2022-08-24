@@ -45,7 +45,7 @@
                 </li>
             </ul>
         </nav>
-        <article>
+        <article class="navLien">
             <a href="https://www.thea.mom.creation@gmail.com" target="_blank" class="athemomcreation">
                 thea.mom.creation@gmail.com
             </a>
