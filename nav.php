@@ -29,16 +29,16 @@
                     <a href="shop.php" class="nav-link">Boutique</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Blog</a>
+                    <a href="blog.php" class="nav-link">Blog</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">A propos</a>
+                    <a href="about.php" class="nav-link">A propos</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">FAQ</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Contact</a>
+                    <a href="contact.php" class="nav-link">Contact</a>
                 </li>
                 <li class="nav-item">
                     <a target="_blank" class="nav-link" href="https://thea-and-mom-creations.over-blog.com/">NewsLetters</a>

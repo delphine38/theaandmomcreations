@@ -25,7 +25,7 @@
                 <p>Théa a 6 ans et moi 36 ans (sa maman , Michèle LANDAIS) réalisons de nombreux bijoux et objets du quotidien avec des fleurs locales que nous séchons ensemble (fleurs d’Isère, Ain, Rhône). Certains Objets sont composés par Théa et d'autre par mes soins, ce sera signalé soit en description soit en #HASHTAG Made by THEA si c'est THEA, ou Made By Mom si c'est moi :-)</p>
                 <p>Bien entendu ma petite Théa va recevoir dans sa tirelire quelques euros sur les ventes où elle a participé au séchage des fleurs, quand elle compose elle même les bijoux/objets en vente , également quand elle n’a pas participé à mes propres créations car c’est avant tout <br /> un DUO Mère Fille.
                 </p>
-                <p>Je vous conseille d'aller voir notre page <a href="https://www.facebook.com/mickaela.land" target="_blank" class="aFacebookTexteAccueil">Facebook</a> où vous pourrez suivre nos aventures. Contactez-nous pour toutes questions 🙂 <a href={"https://www.facebook.com/mickaela.land"} target="_blank" className="aFacebookTexteAccueil">https://www.facebook.com/TheaAndMom</a>
+                <p>Je vous conseille d'aller voir notre page <a href="https://www.facebook.com/mickaela.land" target="_blank" class="aFacebookTexteAccueil">Facebook</a> où vous pourrez suivre nos aventures. Contactez-nous pour toutes questions 🙂 <a href="https://www.facebook.com/mickaela.land" target="_blank" class="aFacebookTexteAccueil">https://www.facebook.com/TheaAndMom</a>
                 </p>
             </section>
         </div>
@@ -37,7 +37,7 @@
     </div>
 
 
-
+    <?php include "footer.php" ?>
 </body>
 
 </html>
