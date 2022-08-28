@@ -14,7 +14,7 @@
     <?php include "header.php" ?>
     <?php include "nav.php" ?>
     <h1 class="shopH1">La boutique de Théa and Mom's vous présente quelques Bijoux créés <br>
-        de toute part par Théa et sa Maman Michelle </h1>
+        de toute part par Théa et sa Maman Michelle, vous pouvez les retrouvez et les achetés via son <a href="https://thea-and-mom-creations.over-blog.com/"> blog</a> </h1>
 
     <article class="blogImage">
         <img src="images/theaetmaman.jpg" alt="théa et sa maman" width="15%" class="blogTheaEtMaman">

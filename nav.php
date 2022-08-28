@@ -35,7 +35,7 @@
                     <a href="about.php" class="nav-link">A propos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">FAQ</a>
+                    <a href="faq.php" class="nav-link">FAQ</a>
                 </li>
                 <li class="nav-item">
                     <a href="contact.php" class="nav-link">Contact</a>
