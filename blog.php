@@ -14,69 +14,7 @@
     <?php include "header.php" ?>
     <?php include "nav.php" ?>
 
-    <article class="blogImage">
-        <img src="images/theaetmaman.jpg" alt="théa et sa maman" width="15%" class="blogTheaEtMaman">
-    </article>
-
-    <div class="container">
-        <div class="p-1 d-flex flex-wrap text-center">
-            <div class="col-3">
-                <div class="card">
-                    <div class="card-body">
-                        <article>
-                            <img src="images/theaetmaman.jpg" alt="théa et sa maman" width="15%" class="blogArticle">
-                        </article>
-                    </div>
-                </div>
-            </div>
-            <div class="col-3">
-                <div class="card">
-                    <div class="card-body">
-                        <article>
-                            <img src="images/theaetmaman.jpg" alt="théa et sa maman" width="80px" class="blogArticle">
-                        </article>
-                    </div>
-
-                </div>
-            </div>
-            <div class="col-3">
-                <div class="card">
-                    <div class="card-body">
-                        <article>
-                            <img src="images/theaetmaman.jpg" alt="théa et sa maman" class="blogArticle">
-                        </article>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-    </div>
-
-
-    <!-- <div class="container">
-        <div class="image">
-            <article>
-                <img src="images/theaetmaman.jpg" alt="théa et sa maman" width="15%" class="blogTheaEtMaman">
-            </article>
-            <article>
-                <img src="images/theaetmaman.jpg" alt="théa et sa maman" width="15%" class="blogTheaEtMaman">
-            </article>
-            <article>
-                <img src="images/theaetmaman.jpg" alt="théa et sa maman" width="15%" class="blogTheaEtMaman">
-            </article>
-            <article>
-                <img src="images/theaetmaman.jpg" alt="théa et sa maman" width="15%" class="blogTheaEtMaman">
-            </article>
-
-
-
-
-
-        </div>
-
-    </div> -->
-
-    </div>
+    <h1>Blog</h1>
 
 
 
